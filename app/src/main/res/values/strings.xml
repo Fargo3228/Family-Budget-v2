@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Family Budget</string>
+    <string name="Save">Сохранить</string>
+    <string name="Name">Название:</string>
+    <string name="Data">Доходы/Расходы, дата:</string>
+    <string name="Description">Описание:</string>
+    <string name="Add">Добавить</string>
+    <string name="ListBudget">Список бюджетных планов:</string>
+    <string name="hintInputTextForSrch">Введите текст для поиска…</string>
+</resources>
